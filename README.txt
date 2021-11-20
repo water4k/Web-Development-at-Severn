@@ -3,7 +3,7 @@ a website for Web Development @ Severn
 Credits:
 	Template
 		Html5up (html5up.net)
-	Demo Images:
+	Images:
 		Unsplash (unsplash.com)
 
 	Icons:
